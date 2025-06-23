@@ -8,7 +8,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:src="@drawable/bg_place"/>
+        android:src="@drawable/bg_place" />
     <FrameLayout
         android:id="@+id/actionBarLayout"
         android:layout_width="match_parent"
